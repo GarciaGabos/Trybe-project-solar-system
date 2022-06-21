@@ -1,6 +1,6 @@
 import React from 'react';
 
-class SolarSystem extends React.Component {
+class Title extends React.component {
   render() {
     return (
       <div data-testid="solar-system"> Ola </div>
@@ -8,4 +8,4 @@ class SolarSystem extends React.Component {
   }
 }
 
-export default SolarSystem;
+export default Title;
